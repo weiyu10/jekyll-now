@@ -3,6 +3,7 @@ layout: post
 title: google maglev 一致性哈希算法
 ---
 
+最近看google的maglev论文，自己尝试用python实现的一致性hash
 {% highlight python %}
 #!/usr/bin/env python
 
