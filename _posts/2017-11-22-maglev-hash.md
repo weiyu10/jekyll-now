@@ -3,7 +3,9 @@ layout: post
 title: google maglev 一致性哈希算法
 ---
 
-最近看google的maglev论文，自己尝试用python实现的一致性hash
+# overview
+
+最近看google的[maglev](http://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/44824.pdf)论文，自己尝试用python实现的一致性hash
 {% highlight python %}
 #!/usr/bin/env python
 
@@ -92,3 +94,9 @@ print moved/float(10000)
 
 {% endhighlight %}
 
+
+# REF
+
+<http://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/44824.pdf>
+
+<http://xnhp0320.github.io/2016/06/26/Maglev-consistent-hash/>
