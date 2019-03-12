@@ -5,7 +5,7 @@ title: 时间轮定时器
 
 # overview
 
-![timewheel](../images/timewheel.jpg "time wheel")
+![timewheel](/img/time_wheel.jpg "time wheel")
 
 # REF
 
